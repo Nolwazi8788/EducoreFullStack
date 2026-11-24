@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\migrations\\20251016220022_rolesseeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:migrations\\20251016220022_rolesseeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\educorelmsbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:educorelmsbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|c:\\users\\parad\\desktop\\educorefullstack\\educorefullstack\\educorelmsbackend\\migrations\\20251016215929_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676F1B54-9521-4094-AE26-EBFDEA0F7F28}|educorelmsbackend.csproj|solutionrelative:migrations\\20251016215929_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:29:11.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:24:26.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:19:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:14:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddModuleDto.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Models\\AddModuleDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddModuleDto.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Models\\AddModuleDto.cs",
+              "RelativeToolTip": "Models\\AddModuleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:47:42.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "Controllers\\ModuleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:07:22.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwMQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:49:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:00:03.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T21:53:50.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251016220022_RolesSeeded.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Migrations\\20251016220022_RolesSeeded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016220022_RolesSeeded.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Migrations\\20251016220022_RolesSeeded.cs",
+              "RelativeToolTip": "Migrations\\20251016220022_RolesSeeded.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:00:22.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251016215929_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Migrations\\20251016215929_initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016215929_initial migration.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Migrations\\20251016215929_initial migration.cs",
+              "RelativeToolTip": "Migrations\\20251016215929_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:59:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "Models\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:56:58.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "educorelmsbackend.http",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\educorelmsbackend.http",
+              "RelativeDocumentMoniker": "educorelmsbackend.http",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\educorelmsbackend.http",
+              "RelativeToolTip": "educorelmsbackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-16T21:53:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\parad\\Desktop\\EducoreFullStack\\EducoreFullStack\\educorelmsbackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:53:31.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
